@@ -1,6 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
+        /* Домашняя работа (5-6 урок)
+
         // Объявление и инициализация переменных
 
         byte countRunCycle = 1;
@@ -27,7 +29,7 @@ public class Main {
         System.out.println("Вычитание: " + buyers);
         System.out.println("Умножение: " + target);
         System.out.println("Деление: " + result);
-        System.out.println("Остаток от деления: " + deduction);
+        System.out.println("Остаток от деления: " + deduction);*/
 
     }
 }
