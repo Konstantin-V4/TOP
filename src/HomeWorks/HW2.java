@@ -3,16 +3,16 @@ package HomeWorks;
 public class HW2 {
     public static void main(String[] args) {
 
-    // Начало
+        // Начало
 
-    int yes = 1;
-    int no = 0;
+        int yes = 1;
+        int no = 0;
 
-    if (yes > no) {
-        System.out.println("Поставили чайник");
-    } else if (yes < no) {
-        System.out.println("Не поставили чайник");
-    }
+        if (yes > no) {
+            System.out.println("Поставили чайник");
+        } else if (yes < no) {
+            System.out.println("Не поставили чайник");
+        }
 
         boolean stoveOn = true;
         boolean takeCup = true;
@@ -33,11 +33,11 @@ public class HW2 {
         }
 
 
-    if (yes > no) {
-        System.out.println("Чайник вскипел");
-    } else if (yes < no) {
-        System.out.println("Чайник не вскипел");
-    }
+        if (yes > no) {
+            System.out.println("Чайник вскипел");
+        } else if (yes < no) {
+            System.out.println("Чайник не вскипел");
+        }
 
 
         boolean poorWater = true;
@@ -51,12 +51,12 @@ public class HW2 {
         }
 
 
-    if (yes > no) {
-        System.out.println("Кофе готово");
-    } else if (yes < no) {
-        System.out.println("Кофе не готово");
-    }
+        if (yes > no) {
+            System.out.println("Кофе готово");
+        } else if (yes < no) {
+            System.out.println("Кофе не готово");
+        }
 
-    // Конец
+        // Конец
     }
 }
