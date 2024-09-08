@@ -58,5 +58,6 @@ public class HW2 {
     }
 
     // Конец
+
     }
 }
